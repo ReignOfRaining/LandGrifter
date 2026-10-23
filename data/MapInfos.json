@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":7,"parentId":0,"scrollX":819,"scrollY":454.5},
+{"id":2,"expanded":false,"name":"People's Home 1","order":8,"parentId":1,"scrollX":819,"scrollY":454.5},
+{"id":3,"expanded":true,"name":"Portal Chamber","order":1,"parentId":0,"scrollX":811,"scrollY":505.5},
+{"id":4,"expanded":true,"name":"Forest","order":2,"parentId":3,"scrollX":811,"scrollY":454.5},
+{"id":5,"expanded":false,"name":"Rock Cave","order":3,"parentId":3,"scrollX":811,"scrollY":446.5},
+{"id":6,"expanded":true,"name":"Devil Castle 1F","order":4,"parentId":3,"scrollX":811,"scrollY":446.5},
+{"id":7,"expanded":true,"name":"Forest Town","order":5,"parentId":3,"scrollX":811,"scrollY":1053.5},
+{"id":8,"expanded":true,"name":"Feature Reference","order":6,"parentId":3,"scrollX":819,"scrollY":454.5},
+{"id":9,"expanded":false,"name":"TestMouseCam","order":9,"parentId":0,"scrollX":1324,"scrollY":1090.5}
+]
