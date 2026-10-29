@@ -9,6 +9,7 @@ null,
 {"id":7,"expanded":true,"name":"Forest Town","order":5,"parentId":3,"scrollX":1508,"scrollY":1045.3333333333333},
 {"id":8,"expanded":true,"name":"Feature Reference","order":6,"parentId":3,"scrollX":1518.6666666666667,"scrollY":837.3333333333334},
 {"id":9,"expanded":false,"name":"TestMouseCam","order":9,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1091.142857142857},
-{"id":10,"expanded":true,"name":"001 Surprise Attack","order":11,"parentId":11,"scrollX":1508,"scrollY":837.3333333333334},
-{"id":11,"expanded":true,"name":"Land Grifter","order":10,"parentId":0,"scrollX":664,"scrollY":830.6666666666666}
+{"id":10,"expanded":true,"name":"001 Surprise Attack","order":11,"parentId":11,"scrollX":1192.6666666666667,"scrollY":1148},
+{"id":11,"expanded":true,"name":"Land Grifter","order":10,"parentId":0,"scrollX":1518.6666666666667,"scrollY":837.3333333333334},
+{"id":12,"expanded":false,"name":"002 A Squire's Errand","order":12,"parentId":11,"scrollX":1366.8,"scrollY":753.6}
 ]
