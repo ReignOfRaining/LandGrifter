@@ -12,5 +12,5 @@ null,
 {"id":10,"expanded":true,"name":"001 Surprise Attack","order":11,"parentId":11,"scrollX":1192.6666666666667,"scrollY":1148},
 {"id":11,"expanded":true,"name":"Land Grifter","order":10,"parentId":0,"scrollX":1366.8,"scrollY":753.6},
 {"id":12,"expanded":false,"name":"002 A Squire's Errand","order":12,"parentId":11,"scrollX":1708.5,"scrollY":942},
-{"id":13,"expanded":false,"name":"003 Fight It Out","order":13,"parentId":11,"scrollX":747,"scrollY":922.5}
+{"id":13,"expanded":false,"name":"003 Fight It Out","order":13,"parentId":11,"scrollX":738,"scrollY":1113}
 ]
